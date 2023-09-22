@@ -1,3 +1,15 @@
+# Monism: The Priority of the Whole
+
+## Jonathan Schaffer
+
+```yaml
+type: paper
+category: philosophy
+status: reading
+startedAt: September 22th, 2023
+completedAt:
+```
+
 # Experimental philosophy and philosophical intuition
 
 ## Ernest Sosa
