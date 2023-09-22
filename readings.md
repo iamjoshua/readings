@@ -23,3 +23,15 @@ status: completed
 startedAt: August 8th, 2023
 completedAt:
 ```
+
+# Representation in Cognitive Sciences
+
+## Nicholas Shea
+
+```yaml
+type: book
+category: philosophy
+status: paused
+startedAt: March 6th, 2023
+completedAt:
+```
