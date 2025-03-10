@@ -1,3 +1,17 @@
+
+
+# The meaning of 'meaning' 
+
+##  Hilary Putnam
+
+```yaml
+type: paper
+category: philosophy
+status: rereading
+startedAt: March 8th, 2025
+completedAt:
+```
+
 # Monism: The Priority of the Whole
 
 ## Jonathan Schaffer
