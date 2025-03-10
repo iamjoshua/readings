@@ -1,5 +1,3 @@
-
-
 # The meaning of &apos;meaning&apos;
 
 ##  Hilary Putnam
