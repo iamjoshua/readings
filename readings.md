@@ -1,4 +1,4 @@
-# The meaning of &apos;meaning&apos;
+# The Meaning of "Meaning"
 
 ##  Hilary Putnam
 
