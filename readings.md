@@ -10,6 +10,18 @@ startedAt: March 8th, 2025
 completedAt:
 ```
 
+# Psychologism and Behaviorism
+
+## Ned Block 
+
+```yaml
+type: paper
+category: philosophy
+status: rereading
+startedAt: February 25th, 2025
+completedAt: February 27th, 2025
+```
+
 # Monism: The Priority of the Whole
 
 ## Jonathan Schaffer
