@@ -17,7 +17,7 @@ completedAt:
 ```yaml
 type: paper
 category: philosophy
-status: rereading
+status: completed 
 startedAt: February 25th, 2025
 completedAt: February 27th, 2025
 ```
@@ -29,7 +29,7 @@ completedAt: February 27th, 2025
 ```yaml
 type: paper
 category: philosophy
-status: reading
+status: completed
 startedAt: September 22th, 2023
 completedAt:
 ```
