@@ -1,3 +1,15 @@
+# I've Been Thinking 
+
+## Daniel C. Dennett 
+
+```yaml
+type: book 
+category: philosophy 
+status: reading 
+startedAt: April 25th, 2025
+completedAt:
+```
+
 # Snow Crash 
 
 ## Neal Stephenson
