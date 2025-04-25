@@ -1,3 +1,15 @@
+
+# Snow Crash 
+
+## Neal Stephenson
+
+```yaml
+type: book 
+category: Science fiction
+status: completed 
+startedAt: April 4th, 2025
+completedAt: April 24th, 2025
+```
 # The Meaning of "Meaning"
 
 ##  Hilary Putnam
