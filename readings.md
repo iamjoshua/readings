@@ -17,9 +17,9 @@ completedAt:
 ```yaml
 type: book 
 category: philosophy 
-status: reading 
+status: completed 
 startedAt: April 25th, 2025
-completedAt:
+completedAt: May 23rd, 2025
 ```
 
 # Snow Crash 
