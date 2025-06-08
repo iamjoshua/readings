@@ -1,3 +1,15 @@
+# Reality+
+
+## David Chalmers
+
+```yaml
+type: book 
+category: philosophy 
+status: reading 
+startedAt: May 7th, 2025
+completedAt:
+```
+
 # I've Been Thinking 
 
 ## Daniel C. Dennett 
