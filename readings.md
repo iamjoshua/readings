@@ -7,7 +7,7 @@ type: book
 category: philosophy 
 status: reading 
 startedAt: May 7th, 2025
-completedAt:
+completedAt: July 4th, 2025
 ```
 
 # I've Been Thinking 
