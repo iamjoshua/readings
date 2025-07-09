@@ -1,3 +1,15 @@
+# Stories of Your Life and Others
+
+## Ted Chiang
+
+```yaml
+type: book 
+category: science fiction 
+status: reading 
+startedAt: July 6th, 2025
+completedAt:
+```
+
 # Reality+
 
 ## David Chalmers
