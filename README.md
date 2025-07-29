@@ -13,10 +13,10 @@ Today I consolidated all my reading data from multiple sources into a single, un
 - **Created master file**: Final `readings.csv` contains 209 total entries with consistent structure
 
 ### File structure:
-- `readings.csv` - My reading history (books and papers)
+- `readings.csv` - **SOURCE OF TRUTH** - My reading history (books and papers)
 - `philosophy_papers.csv` - Clean philosophy papers dataset
 - `books archive.csv` - Historical book archive (cleaned)
-- `readings.md` - Extended markdown version with all entries
+- `readings.md` - Legacy markdown version (no longer maintained)
 
 ### Notes:
 There are quite a few more philosophy papers that I need to add to the list, but I can't currently find the old spreadsheet and I stopped tracking the papers in my vault a long time ago. I'll need to manually enter them to catch up on the missing entries.

@@ -1,3 +1,15 @@
+# Daily Rituals: How Artists Work
+
+## Mason Currey
+
+```yaml
+type: book 
+category: creativity/productivity 
+status: reading 
+startedAt: July 29th, 2025
+completedAt:
+```
+
 # Stories of Your Life and Others
 
 ## Ted Chiang
