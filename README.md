@@ -18,5 +18,34 @@ Today I consolidated all my reading data from multiple sources into a single, un
 - `books archive.csv` - Historical book archive (cleaned)
 - `readings.md` - Legacy markdown version (no longer maintained)
 
+## Category System
+
+The readings database uses a three-level hierarchical categorization system:
+
+### Structure: Category → Subject → Topic
+
+**Level 1: Categories (Primary)**
+- `fiction` - Literary works, novels, stories
+- `non-fiction` - All non-fiction content
+
+**Level 2: Subjects (Secondary)**
+- **Fiction:** `literary fiction`, `science fiction`
+- **Non-fiction:** `philosophy`, `science`, `business & economics`, `biography & memoir`, `self-improvement`, `arts & humanities`, `health & wellness`, `education`
+
+**Level 3: Topics (Tertiary - Optional)**
+Specific focus areas within subjects:
+- **Arts & Humanities:** `writing`, `photography`, `creativity`
+- **Biography & Memoir:** `biography`, `autobiography`, `memoir`  
+- **Business & Economics:** `finance`, `economics`
+- **Self-Improvement:** `psychology`, `self-help`, `productivity`
+- **Science:** `mathematics`, `computer science`
+- **Health & Wellness:** `fitness`
+
+### Usage Notes:
+- Topics are optional - only ~24% of entries use them
+- Philosophy (largest subject with 66 entries) rarely uses topics
+- System accommodates both academic papers and popular books
+- Classification becomes more specific at each level
+
 ### Notes:
 There are quite a few more philosophy papers that I need to add to the list, but I can't currently find the old spreadsheet and I stopped tracking the papers in my vault a long time ago. I'll need to manually enter them to catch up on the missing entries.
